@@ -1,0 +1,4 @@
+SpeechRecognition
+pydub
+llama_hub
+whisper
